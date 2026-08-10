@@ -45,6 +45,7 @@
 安装依赖并启动：
 
 ```bash
+git clone https://github.com/TreasureBoy99/NSFW_monitor.git && cd NSFW_monitor
 pip install -r requirements.txt
 python Rss_monitor.py
 ```
